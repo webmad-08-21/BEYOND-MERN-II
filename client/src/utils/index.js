@@ -1,0 +1,1 @@
+export const isOwner = (id, loggedUser) => id === loggedUser?._id
